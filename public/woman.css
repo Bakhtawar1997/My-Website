@@ -1,0 +1,84 @@
+.slider{
+    margin-top: 4%;
+}
+h1 {
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+  }
+.navbar{
+    background-color:#FEF9E7 ;
+    font-family: 'Calligraffitti', cursive;
+  }
+  .nav-link:hover{
+    background-color: #F7DC6F;
+    color:white !important;
+  }
+  .icon{
+    margin: 10px;
+    color:  #5499C7;
+  }
+   
+    
+.card{
+    width: 250px;
+    height: auto;
+    margin-top: 20px;
+}
+.heading{
+    font-size: 30%;
+    font-family: 'Calligraffitti', cursive;
+    text-align: center;
+    color: #5499C7 ;
+}
+.card-title
+{
+    font-family: 'Calligraffitti', cursive;
+}
+
+.card-text{
+    font-family: 'Calligraffitti', cursive;
+
+}
+.slider2{
+    padding-top: 1% !important;
+}
+.special{
+    
+    display: flex;
+    width: 100%;
+}
+.s1{
+
+    margin-top: 2%;
+    float: left;
+    
+}
+
+.fa-facebook {
+    padding: 20px;
+    border-radius: 50%;
+    background: #3B5998;
+    color: white;
+  }
+  
+  .fa-twitter {
+    padding: 20px;
+    border-radius: 50%;
+    background: #55ACEE;
+    color: white;
+  }
+  .fa-snapchat-ghost {
+    padding: 20px;
+    border-radius: 50%;
+    background: #fffc00 ;
+    color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+  .fa-instagram {
+    padding: 20px;
+    border-radius: 50%;
+    background: #55ACEE;
+    color: white;
+  }
+
+ 

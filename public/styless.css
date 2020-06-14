@@ -1,0 +1,36 @@
+body {
+    font-family: "Lato", sans-serif;
+  }
+  
+  .sidenav {
+    width: 200px;
+    height: 300px;
+   
+    z-index: 1;
+    top: 50%;
+    margin-left: 5%;
+    background: white;
+    overflow-x: hidden;
+    padding: 8px 0;
+    
+  }
+  
+  .sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 15px;
+    color: #2196F3;
+    display: block;
+  }
+  
+  .sidenav a:hover {
+    color: #064579;
+  }
+  .picturess{
+      background-image: url(img/1.webp);
+      height: 100%; 
+      width: 100%;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+  }
